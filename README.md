@@ -1,6 +1,6 @@
 # SQL-Data-warehouse-Project
 
-Welcome to the Data Warehouse and Analytics Project repository! (This project is a part of my learning course from Udemy)
+Welcome to the Data Warehouse and Analytics Project repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
 "Built as a practical capstone alongside a Udemy SQL course, this project bridges classroom concepts with real-world data engineering workflows."
